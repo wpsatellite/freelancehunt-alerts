@@ -1,0 +1,11 @@
+{
+  "name": "freelancehunt-alerts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node scripts/check.mjs",
+    "dry": "DRY_RUN=1 node scripts/check.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
