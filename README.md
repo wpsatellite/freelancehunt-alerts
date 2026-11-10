@@ -1,6 +1,6 @@
 # freelancehunt-alerts
 
-Кожні 5 хвилин GitHub Actions перевіряє нові проєкти на Freelancehunt
+Кожні 5 хвилин GitHub Actions перевіряє нові проєкти на Freelancehunt і Freelance.ua
 (сайти, контекстна реклама / Google Ads, реклама в соцмережах / Meta Ads)
 і надсилає їх у Telegram-групу.
 
